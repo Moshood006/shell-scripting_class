@@ -12,3 +12,6 @@ print(name)
 print(age)
 print(phone_number) 
 print(email_address)
+
+#this will generate a random set of numbers as password and print along with the user details 
+
